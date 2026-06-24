@@ -1,0 +1,1 @@
+# sznpss-manifests
