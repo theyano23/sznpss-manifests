@@ -5,6 +5,14 @@
   },
   "assets_portraits.bin": {
     "version": "1",
-    "changelog": "Placeholder Portraits for 2026-2027 Season, will be updated accordingly as season progresses."
+    "changelog": "Placeholder Portraits for 2026-2027 Season, will be updated accordingly as season progresses.",
+    "optional": true,
+    "tier": "gold"
+  },
+  "sznpss27.bin": {
+    "version": "1.0",
+    "changelog": "first installation prompt. initial link is glitchy :)",
+    "optional": true,
+    "tier": "gold"
   }
 }
