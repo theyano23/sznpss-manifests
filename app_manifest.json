@@ -1,13 +1,13 @@
 {
-  "version": "4",
-  "changelog": "Few QoL improvements:\n\n1. You may now use CTRL + 1-9 to switch tabs\n2. Fixed Portrait bugs not loading properly on second launch\n3. HUD improvements for faster loading times during initial launch",
+  "version": "4.1",
+  "changelog": "- Follow-Up update for exe)",
   "released": "2026-07-01",
   "files": [
     {
       "dest": "app",
       "name": "SZNPSS.exe",
       "r2_key": "SZNPSS.exe",
-      "sha256": "3a31fd8ac829c12a133bfaf61607c33676bfcc6dbc4ad9df56414881a9b5c31c"
+      "sha256": "9c2daed3d506a39bc5f9a6381c980a4e7ab8dc2e9be0232e75819fb40cb50aea"
     }
   ]
 }
