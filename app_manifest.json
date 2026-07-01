@@ -1,13 +1,13 @@
 {
-  "version": "4.1",
-  "changelog": "- Follow-Up update for exe)",
-  "released": "2026-07-01",
+  "version": "4.2",
+  "changelog": "- DOWNLOAD LOOP FIX",
+  "released": "2026-07-02",
   "files": [
     {
       "dest": "app",
       "name": "SZNPSS.exe",
       "r2_key": "SZNPSS.exe",
-      "sha256": "9c2daed3d506a39bc5f9a6381c980a4e7ab8dc2e9be0232e75819fb40cb50aea"
+      "sha256": "6bd971591c0f470015ed7830e063a64e82092202f820c7d18f7e6e4bc65f29a7"
     }
   ]
 }
