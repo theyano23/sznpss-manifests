@@ -1,14 +1,14 @@
 {
-  "assets_portraits.bin": {
+  "SZNPSS27.bin": {
     "version": "1",
-    "changelog": "Placeholder Portraits for 2026-2027 Season, will be updated accordingly as season progresses.",
-    "optional": true,
-    "tier": "gold"
+    "changelog": "First official roster for SZNPSS 2026-2027 season. This includes the First Rounders of the 2026 Draft, assigned to their respective teams"
+  },
+  "assets_portraits.bin": {
+    "version": "2.1Po",
+    "changelog": "Portrait Update for 2026-2027 Offseason\n\n- Updated as of July 02, 2026 09:46 AM"
   },
   "sznpss27.bin": {
-    "version": "1.0",
-    "changelog": "first installation prompt. initial link is glitchy :)",
-    "optional": true,
-    "tier": "bronze"
+    "version": "1.1",
+    "changelog": "ROSTER UPDATE \n\n- UPDATED SIGNINGS AS OF July 02, 2026 09:46 AM\n- UPDATED POSITIONS\n\nNEXT UPDATE AFTER LEBRON SIGNS WITH A NEW TEAM :)"
   }
 }
