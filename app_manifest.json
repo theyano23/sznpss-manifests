@@ -1,13 +1,1 @@
-{
-  "version": "4.2",
-  "changelog": "- minor fix(will roll out for future updates). If any errors on installation exist, I will take this down",
-  "released": "2026-07-02",
-  "files": [
-    {
-      "dest": "app",
-      "name": "SZNPSS.exe",
-      "r2_key": "SZNPSS.exe",
-      "sha256": "54349b05ee5af60273b99018546b954a547bc12974cf34ea50b793e28816695b"
-    }
-  ]
-}
+
