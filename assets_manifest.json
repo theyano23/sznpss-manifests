@@ -1,8 +1,4 @@
 {
-  "SZNPSS27.bin": {
-    "version": "1",
-    "changelog": "First official roster for SZNPSS 2026-2027 season. This includes the First Rounders of the 2026 Draft, assigned to their respective teams"
-  },
   "assets_portraits.bin": {
     "version": "2.2",
     "changelog": "Portrait Update for 2026-2027 Offseason\n\n- Updated as of July 04, 2026 07:37PM"
@@ -15,6 +11,6 @@
     "version": "1.0",
     "changelog": "2026-2027 team select and game mode logos",
     "optional": true,
-    "tier": "bronze"
+    "tier": "gold"
   }
 }
