@@ -1,16 +1,20 @@
 {
+  "SZNPSS27.bin": {
+    "version": "1",
+    "changelog": "First official roster for SZNPSS 2026-2027 season. This includes the First Rounders of the 2026 Draft, assigned to their respective teams"
+  },
   "assets_portraits.bin": {
-    "version": "2.2",
-    "changelog": "Portrait Update for 2026-2027 Offseason\n\n- Updated as of July 04, 2026 07:37PM"
+    "version": "2.3",
+    "changelog": "Portrait Update for 2026-2027 Offseason\n\n- Updated as of July 07, 2026 10:48AM (HACHIMURA TO LAC, POST TO MEM, TWO-WAY CONTRACT PLAYERS)"
   },
   "sznpss27.bin": {
-    "version": "1.3",
-    "changelog": "ROSTER UPDATE \n\n- UPDATED SIGNINGS AS OF July 04, 2026 09:52PM\n\nNEXT UPDATE AFTER LEBRON SIGNS WITH A NEW TEAM :)"
+    "version": "1.4",
+    "changelog": "ROSTER UPDATE \n\n- UPDATED SIGNINGS AS OF July 07, 2026 10:47AM(UP TO HACHIMURA TO LAC)\n- UPDATED JERSEY NUMBERS\n- ADDED TWO-WAY CONTRACT PLAYERS"
   },
   "assets_logos.bin": {
-    "version": "2.0",
+    "version": "1.0",
     "changelog": "2026-2027 team select and game mode logos",
     "optional": true,
-    "tier": "gold"
+    "tier": "bronze"
   }
 }
