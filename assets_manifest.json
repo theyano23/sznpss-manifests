@@ -1,16 +1,4 @@
 {
-  "SZNPSS27.bin": {
-    "version": "1",
-    "changelog": "First official roster for SZNPSS 2026-2027 season. This includes the First Rounders of the 2026 Draft, assigned to their respective teams"
-  },
-  "assets_portraits.bin": {
-    "version": "2.4",
-    "changelog": "Portrait Update for 2026-2027 Offseason\n\n- Updated as of July 08, 2026 09:02PM"
-  },
-  "sznpss27.bin": {
-    "version": "1.5",
-    "changelog": "- Memphis Grizzlies acquire D'Angelo Russell and draft assets. \n- Washington Wizards acquire Khris Middleton (via sign-and-trade from Dallas).\n- Detroit Pistons acquire John Collins (via sign-and-trade from the Clippers).\n- Milwaukee Bucks acquire Caris LeVert (from the Pistons). \n- Dallas Mavericks acquire Santi Aldama (from the Grizzlies) and Marcus Sasser (from Pistons)\n- Detroit Pistons acquire Gary Harris and Taurean Prince (from Bucks)"
-  },
   "assets_logos.bin": {
     "version": "1.0",
     "changelog": "2026-2027 team select and game mode logos",
