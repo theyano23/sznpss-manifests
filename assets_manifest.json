@@ -19,6 +19,6 @@
   },
   "player_database.bin": {
     "version": "1.1",
-    "changelog": "player list update for launcher. MUST BE PLACE BESIDE THE LAUNCHER DIRECTORY"
+    "changelog": "player list update for launcher. MUST BE PLACED BESIDE THE LAUNCHER DIRECTORY"
   }
 }
