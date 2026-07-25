@@ -1,13 +1,1 @@
-{
-  "version": "v3.0",
-  "changelog": "launcher update :)",
-  "released": "2026-07-25",
-  "files": [
-    {
-      "dest": "app",
-      "name": "SZNPSS.exe",
-      "r2_key": "SZNPSS.exe",
-      "sha256": "3cd5be542c6fb2224f9ab4d9400059882949c2f4eeb021f3bdb7012b54986ea9"
-    }
-  ]
-}
+
