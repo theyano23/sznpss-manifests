@@ -18,9 +18,7 @@
     "tier": "bronze"
   },
   "player_database.bin": {
-    "version": "1.0",
-    "changelog": "player list update for launcher. MUST BE PLACE BESIDE THE LAUNCHER DIRECTORY",
-    "optional": true,
-    "tier": "bronze"
+    "version": "1.1",
+    "changelog": "player list update for launcher. MUST BE PLACE BESIDE THE LAUNCHER DIRECTORY"
   }
 }
