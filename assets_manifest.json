@@ -4,12 +4,12 @@
     "changelog": "First official roster for SZNPSS 2026-2027 season. This includes the First Rounders of the 2026 Draft, assigned to their respective teams"
   },
   "assets_portraits.bin": {
-    "version": "2.10.1",
-    "changelog": "Portrait Update as of August 08, 2026 *hotfix*"
+    "version": "2.11",
+    "changelog": "Portrait Update to Match Updated Transactions as of August 18, 2026"
   },
   "sznpss27.bin": {
-    "version": "1.12",
-    "changelog": "SZNPSS ROSTER UPDATE FOR AUGUST 14, 2026:\n\n- OFFICIAL 2026-2027 SCHEDULES IMPLEMENTED\n- JERSEY NUMBERS UPDATED\n- NO MAJOR SIGNINGS AT THE MOMENT"
+    "version": "1.13",
+    "changelog": "SZNPSS ROSTER UPDATE FOR AUGUST 14, 2026:\n\nTrades:\n- Schroder to Hornets, Tre Mann to Cavs\n\nSignings:\n- Trendon Watford to NOP\n- Sean Pedulla to HOU (Two-Way Contract)\n- PHX re-signed Haywood Highsmith"
   },
   "assets_logos.bin": {
     "version": "1.0",
