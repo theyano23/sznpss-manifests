@@ -4,12 +4,12 @@
     "changelog": "First official roster for SZNPSS 2026-2027 season. This includes the First Rounders of the 2026 Draft, assigned to their respective teams"
   },
   "assets_portraits.bin": {
-    "version": "2.11",
-    "changelog": "Portrait Update to Match Updated Transactions as of August 18, 2026"
+    "version": "2.12",
+    "changelog": "Portrait Update to Match Updated Transactions as of August 20, 2026"
   },
   "sznpss27.bin": {
-    "version": "1.13",
-    "changelog": "SZNPSS ROSTER UPDATE FOR AUGUST 14, 2026:\n\nTrades:\n- Schroder to Hornets, Tre Mann to Cavs\n\nSignings:\n- Trendon Watford to NOP\n- Sean Pedulla to HOU (Two-Way Contract)\n- PHX re-signed Haywood Highsmith"
+    "version": "1.14",
+    "changelog": "SZNPSS Roster + Portraits Update (August 20, 2026)\n- Malik Dia to Pels (Two-Way Contract)\n- Peyton Watson to Cavs\n- Cam Whitmore to Cavs\n- Max Strus to Clippers\n- Tre Mann to Wizards"
   },
   "assets_logos.bin": {
     "version": "1.0",
