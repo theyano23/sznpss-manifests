@@ -4,12 +4,12 @@
     "changelog": "First official roster for SZNPSS 2026-2027 season. This includes the First Rounders of the 2026 Draft, assigned to their respective teams"
   },
   "assets_portraits.bin": {
-    "version": "2.12",
-    "changelog": "Portrait Update to Match Updated Transactions as of August 20, 2026"
+    "version": "2.13",
+    "changelog": "Portrait Update to Match Updated Transactions as of August 22, 2026"
   },
   "sznpss27.bin": {
-    "version": "1.14",
-    "changelog": "SZNPSS Roster + Portraits Update (August 20, 2026)\n- Malik Dia to Pels (Two-Way Contract)\n- Peyton Watson to Cavs\n- Cam Whitmore to Cavs\n- Max Strus to Clippers\n- Tre Mann to Wizards"
+    "version": "1.15",
+    "changelog": "SZNPSS Roster + Portraits Update (August 22, 2026)\n- Klay Thompson to Miami Heat\n- Demar DeRozan to Denver Nuggets\n- Added Back Victor Oladipo to FA list(Rumored to be signed by Kings)"
   },
   "assets_logos.bin": {
     "version": "1.0",
