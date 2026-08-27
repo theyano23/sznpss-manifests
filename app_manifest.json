@@ -1,13 +1,1 @@
-{
-  "version": "5",
-  "changelog": "- EXE Update",
-  "released": "2026-08-27",
-  "files": [
-    {
-      "dest": "app",
-      "name": "SZNPSS.exe",
-      "r2_key": "SZNPSS.exe",
-      "sha256": "998d02ebd3a5739a27412d50bd37c0a5fc992581cdd2d963fc11be85faee23a4"
-    }
-  ]
-}
+
