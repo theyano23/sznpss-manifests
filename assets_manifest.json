@@ -4,12 +4,12 @@
     "changelog": "First official roster for SZNPSS 2026-2027 season. This includes the First Rounders of the 2026 Draft, assigned to their respective teams"
   },
   "assets_portraits.bin": {
-    "version": "2.13",
-    "changelog": "Portrait Update to Match Updated Transactions as of August 22, 2026"
+    "version": "2.14",
+    "changelog": "Portrait Update as of August 27, 2027\nNotables:\n- Changed Patch Sponsor of the Entire GSW Roster from Rakuten to IREN\n- Portraits Updates for the most recent signings"
   },
   "sznpss27.bin": {
-    "version": "1.15",
-    "changelog": "SZNPSS Roster + Portraits Update (August 22, 2026)\n- Klay Thompson to Miami Heat\n- Demar DeRozan to Denver Nuggets\n- Added Back Victor Oladipo to FA list(Rumored to be signed by Kings)"
+    "version": "1.16",
+    "changelog": "SZNPSS Roster + Portraits Update (August 27, 2026)\n- Jonathan Kuminga to Wolves\n- Georges Niang and Brandon williams to Warriors\n- Bennedict Mathurin to Pelicans\n- Rafael Castro to Rockets(Two-way Contract)"
   },
   "assets_logos.bin": {
     "version": "1.0",
