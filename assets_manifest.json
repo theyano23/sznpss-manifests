@@ -4,12 +4,12 @@
     "changelog": "First official roster for SZNPSS 2026-2027 season. This includes the First Rounders of the 2026 Draft, assigned to their respective teams"
   },
   "assets_portraits.bin": {
-    "version": "2.14",
-    "changelog": "Portrait Update as of August 27, 2027\nNotables:\n- Changed Patch Sponsor of the Entire GSW Roster from Rakuten to IREN\n- Portraits Updates for the most recent signings"
+    "version": "2.15",
+    "changelog": "Portrait Update as of August 28, 2027 to match current roster update"
   },
   "sznpss27.bin": {
-    "version": "1.16",
-    "changelog": "SZNPSS Roster + Portraits Update (August 27, 2026)\n- Jonathan Kuminga to Wolves\n- Georges Niang and Brandon williams to Warriors\n- Bennedict Mathurin to Pelicans\n- Rafael Castro to Rockets(Two-way Contract)"
+    "version": "1.17",
+    "changelog": "SZNPSS Roster + Portraits Update (August 27, 2026)\n- Nick Richards and Keshad Johnson to Mia"
   },
   "assets_logos.bin": {
     "version": "1.0",
