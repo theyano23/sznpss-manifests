@@ -4,12 +4,12 @@
     "changelog": "First official roster for SZNPSS 2026-2027 season. This includes the First Rounders of the 2026 Draft, assigned to their respective teams"
   },
   "assets_portraits.bin": {
-    "version": "2.15",
-    "changelog": "Portrait Update as of August 28, 2027 to match current roster update"
+    "version": "2.16",
+    "changelog": "Portrait Update as of August 29, 2027 to match current roster update"
   },
   "sznpss27.bin": {
-    "version": "1.17",
-    "changelog": "SZNPSS Roster + Portraits Update (August 27, 2026)\n- Nick Richards and Keshad Johnson to Mia"
+    "version": "1.18",
+    "changelog": "SZNPSS Roster + Portraits Update (August 29, 2026)\nSecond Apron Relief Trade for Timberwolves\n- Josh Green to Utah Jazz\n- Cody Williams to Minnesota Timberwolves (Konchar waived and stretched)"
   },
   "assets_logos.bin": {
     "version": "1.0",
