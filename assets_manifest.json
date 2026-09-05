@@ -4,12 +4,12 @@
     "changelog": "First official roster for SZNPSS 2026-2027 season. This includes the First Rounders of the 2026 Draft, assigned to their respective teams"
   },
   "assets_portraits.bin": {
-    "version": "2.16",
-    "changelog": "Portrait Update as of August 29, 2027 to match current roster update"
+    "version": "2.17",
+    "changelog": "Portrait Update as of September 5, 2026 to match current roster update"
   },
   "sznpss27.bin": {
-    "version": "1.18",
-    "changelog": "SZNPSS Roster + Portraits Update (August 29, 2026)\nSecond Apron Relief Trade for Timberwolves\n- Josh Green to Utah Jazz\n- Cody Williams to Minnesota Timberwolves (Konchar waived and stretched)"
+    "version": "1.19",
+    "changelog": "SZNPSS Roster + Portraits Update (September 5, 2026)\n- Ben Simmons to Kings\n- Tacko Fall to 76ers\n- Khalifa Diop to Cavs\n- Grant Nelson to BKN(two-way contract)"
   },
   "assets_logos.bin": {
     "version": "1.0",
@@ -18,7 +18,7 @@
     "tier": "bronze"
   },
   "player_database.bin": {
-    "version": "1.1",
-    "changelog": "player list update for launcher. MUST BE PLACED BESIDE THE LAUNCHER DIRECTORY"
+    "version": "1.2",
+    "changelog": "player list update for launcher."
   }
 }
